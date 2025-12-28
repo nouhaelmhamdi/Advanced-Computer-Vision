@@ -8,4 +8,13 @@ NN_Image_Classification_MLP_MNIST_CNN_CIFAR10/mnist_data/
 # Generic patterns to ignore any dataset folders named `cifar10_data` or `mnist_data`
 **/cifar10_data/
 **/mnist_data/
-*/pdfs 
+**/*.pdf
+/*.pdf
+/**/*.pdf
+*.pdf
+
+.*csv
+.*pdf
+
+.claude/
+.venv/
